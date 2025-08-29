@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" width="600" />
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*GbWJ4Sl7IKxyO0Go.png" />
 </p>
 
 ## Hi I am Vandana Omar 👋  
